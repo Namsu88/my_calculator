@@ -2,9 +2,9 @@ import setuptools
 
 setuptools.setup (
   include_package_data = True,
-  name = 'mycalc0001',
+  name = 'my_calculator',
   version = '0.0.1',
-  description = 'oss - dev my calculator 0001',
+  description = 'oss - dev my_calculator',
   author = 'Namsu88',
   author_email = 'sinaie99@naver.com'
   url = "https://github.com/Namsu88/my_calculator",
