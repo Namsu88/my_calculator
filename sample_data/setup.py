@@ -7,7 +7,7 @@ setuptools.setup (
   description = 'oss - dev my calculator 0001',
   author = 'Namsu88',
   author_email = 'sinaie99@naver.com'
-  url = "",
+  url = "https://github.com/Namsu88/my_calculator",
   download_url = "",
   install_requires = ['pytest'],
   long_description = 'oss - deb calculator python module',
