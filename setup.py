@@ -8,7 +8,7 @@ setuptools.setup (
   author='namsuheo',
   author_email='sinaie99@naver.com',
   url = "",
-  download_url = "",
+  download_url = "https://github.com/Namsu88/my_calculator/archive/refs/tags/v0.0.1.zip",
   install_requires=['pytest'],
   long_description = 'oss-dev calculator python module',
   long_description_content_type = 'text/markdown',
